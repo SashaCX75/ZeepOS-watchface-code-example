@@ -61,7 +61,7 @@
               click_func: () => {
                 img_index++;
                 if(img_index > img_count) img_index = 1;
-                //hmUI.showToast({text: 'img_index = ' + parseInt(img_index) });
+                hmUI.showToast({text: 'Background ' + parseInt(img_index) });  // Remove if you do not want to display a message with the number of the selected image
                 img.setProperty(hmUI.prop.SRC, prefix_img + parseInt(img_index) + '.png');
               }
             });
