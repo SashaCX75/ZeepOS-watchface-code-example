@@ -55,7 +55,7 @@
             // });
 
             // Remove your original section "normal_analog_clock_time_pointer_second = hmUI.createWidget(hmUI.widget.TIME_POINTER"
-            // take values from above. The 8 and 223 frome above, too.
+            // take values from above. The 5 and 227 frome above, too.
             // set PNG name here
 
             // SMOOTH SECONDS Definition
